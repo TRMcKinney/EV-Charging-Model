@@ -1,5 +1,5 @@
 # EV-Charging-Model
-A python based model to output energy and power demand over time for multiple vehicles across multiple households based upon pre-determined household activity
+This agent based model, written in python, outputs energy and power demand over time for multiple vehicles across multiple households based upon pre-determined household activity
 
 This model and its results were published in Energy Reports; Rural EV Charging: The effects of Charging Behaviour and Electricity Tariffs. Full text for which can be found here: https://www.sciencedirect.com/science/article/pii/S2352484723000641
 
