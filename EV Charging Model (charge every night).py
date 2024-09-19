@@ -7,6 +7,9 @@ import os
 import glob
 pd.options.mode.chained_assignment = None  # default='warn'
 
+# INSERT METHODOLOGY OF THIS CODE HERE, OUTLINE OF HOW ALL THE LOOPS WORK ETC
+
+
 #load in all the houses at once
 path = os.getcwd()
 csv_files = glob.glob(os.path.join(path, "*.csv"))
